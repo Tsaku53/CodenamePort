@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="1.5" y="200"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim name="singLEFT" anim="note sing left" x="160" y="-19"/>
+   <anim name="singRIGHT" anim="spooky sing right" x="-80" y="-44"/>
+   <anim name="singDOWN" anim="spooky DOWN note" x="10" y="-140" /> 
+   <anim name="danceLeft" anim="spooky dance idle" fps="12" x="0" y="0"  indices="0,2,6"/>
+   <anim name="danceRight" anim="spooky dance idle" fps="12" x="0" y="0" indices="8,10,12,14"/>
+   <anim name="singUP" anim="spooky UP NOTE" x="20" y="24"/>
+
+</character>

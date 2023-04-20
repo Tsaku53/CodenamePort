@@ -1,0 +1,26 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="finale" folder="stages/smokebomb/">
+
+<sprite name="bg"       scale="1.8"        x="-300" y="-400"   sprite="bg"       scroll="0.5" />
+<sprite name="buildings"       scale="1.8"        x="-300" y="-400"   sprite="buildings"       scroll="0.8" />
+<sprite name="buildings2"       scale="1.8"        x="-300" y="-430"   sprite="buildings2"       scroll="1" />
+<sprite name="ground"       scale="1.8"        x="-300" y="-430"   sprite="ground"       scroll="1" />
+     
+<sprite name="overlay3"       scale="1.8"        x="-300" y="0"   sprite="overlay3"       scroll="1">
+<property name="blend" type="int" value="12" />    
+</sprite>
+
+<girlfriend x="300" y="70" scale="0.7" scroll="1"/>
+<boyfriend x="1000" y="100"/>
+<dad x="-110" y="100"/>
+ 
+<sprite name="overlay1"       scale="1.5"        x="-300" y="-290"   sprite="overlay1"       scroll="1">
+<property name="blend" type="int" value="12" />    
+</sprite>
+
+<sprite name="overlay2"       scale="1.5"        x="-300" y="-290"   sprite="overlay2"       scroll="1">
+<property name="blend" type="int" value="12" />    
+</sprite>
+
+<sprite name="bush"       scale="1.8"        x="-300" y="-430"   sprite="bushes"       scroll="1.1" />
+</stage>

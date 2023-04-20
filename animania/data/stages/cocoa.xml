@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.55" name="cocoa" folder="stages/cocoa/">
+   
+     <sprite name="mall_back"       scale="1.2"        x="-1200" y="-900"   sprite="mall_back"       scroll="0.5" />
+      <sprite name="MALL_BG_ESCALATORSSESES"       scale="1.2"        x="-600" y="-400"   sprite="MALL_BG_ESCALATORSSESES"       scroll="0.55" />
+    <sprite name="Tree"       scale="1.2"        x="250" y="-600"   sprite="Tree"       scroll="1" />
+    <sprite name="Snow"       scale="1.2"        x="-1120" y="-100"   sprite="Snow"       scroll="1" />
+    <sprite name="Tree"       scale="1.2"        x="250" y="-600"   sprite="Tree"       scroll="1" />
+    <girlfriend />
+    <dad x="-10"/>
+    <boyfriend />
+</stage>

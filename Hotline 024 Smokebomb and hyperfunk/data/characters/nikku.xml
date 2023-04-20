@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="6.1" x="40" y="-160" scale="0.9"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim name="idle" anim="NikkuIDLE" loop="false" x="-3" y="0"/>
+   <anim name="singRIGHT" anim="NikkuRIGHT" loop="false" x="-50" y="-70"/>
+   <anim name="singLEFT" anim="NikkuLEFT" loop="false" x="80" y="-40"/>
+   <anim name="singUP" anim="NikkuUP" loop="false" x="-13" y="0"/>
+   <anim name="singDOWN" anim="NikkuDOWN" loop="false" x="-25" y="-157"/>
+   <anim name="ugh" anim="NikkuUGH" loop="false" x="120" y="-10"/>
+
+</character>

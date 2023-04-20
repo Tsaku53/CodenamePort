@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="finale" folder="stages/finale/">
+
+    <boyfriend x="1000" y="100"/>
+    <dad x="210" y="100"/>
+
+    <sprite name="bg" x="-200" y="-100" sprite="defeat" anim="defeat" type="none" scale="1.3">
+    <property name="blend" type="int" value="12" />
+    <anim name="defeat" anim="defeat" fps="6"  loop="true"/>
+   
+    </sprite>
+</stage>

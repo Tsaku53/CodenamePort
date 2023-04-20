@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" holdTime="4" y="330" camY="-800" scale="1.1"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim name="idle" anim="Idle" loop="false" x="0" y="0"/>
+   <anim name="singLEFT" anim="Left" loop="false" x="56" y="-1"/>
+   <anim name="singDOWN" anim="Down" loop="false" x="1" y="-18"/>
+   <anim name="singUP" anim="Up" loop="false" x="-19" y="37"/>
+   <anim name="singRIGHT" anim="Right" loop="false" x="-33" y="-6"/>
+   <anim name="singLEFTmiss" anim="sing LEFT miss" loop="false" x="58" y="18"/>
+   <anim name="singDOWNmiss" anim="sing DOWN miss" loop="false" x="3" y="4"/>
+   <anim name="singUPmiss" anim="sing UP miss" loop="false" x="-21" y="44"/>
+   <anim name="singRIGHTmiss" anim="sing RIGHT miss" loop="false" x="-14" y="30"/>
+   <anim name="hey" anim="Hey" loop="false" x="-1" y="4"/>
+   <anim name="singLEFT-alt" anim="Alt Left" loop="false" x="56" y="3"/>
+   <anim name="singDOWN-alt" anim="Alt Down" loop="false" x="-1" y="79"/>
+   <anim name="singUP-alt" anim="Alt Up" loop="false" x="-6" y="46"/>
+   <anim name="singRIGHT-alt" anim="Alt Right" loop="false" x="-35" y="-8"/>
+
+</character>
