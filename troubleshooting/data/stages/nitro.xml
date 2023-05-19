@@ -1,0 +1,21 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="city" folder="stages/city/">
+
+
+
+<sprite name="nitro-sun1"       scale="1"        x="-500" y="-200"   sprite="nitro-sun1"       scroll="0.1" />
+<sprite name="nitro-city1"       scale="1"        x="-500" y="00"   sprite="nitro-city1"       scroll="0.2" />
+
+
+<sprite name="IMG_2630-2.png"       scale="1"        x="-800" y="590"   sprite="IMG_2630-2"       scroll="1" />
+
+<sprite name="IMG_2630"       scale="1"        x="-795" y="600"   sprite="IMG_2630"       scroll="1" />
+
+
+<girlfriend x="150" y="220" scroll="1"/>
+<boyfriend x="900" y="80"/>
+
+<dad x="-180" y="180" />
+
+
+</stage>

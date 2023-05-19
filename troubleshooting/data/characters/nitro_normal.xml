@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="10.2" icon= "nitro"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim name="singLEFT" anim="nitro_left" loop="false" x="-30" y="0"/>
+   <anim name="singDOWN" anim="nitro_down" loop="false" x="-20" y="-70"/>
+   <anim name="singUP" anim="nitro_up" loop="false" x="10" y="30"/>
+   <anim name="singRIGHT" anim="nitro_right" loop="false" x="-40" y="-34"/>
+   <anim name="idle" anim="nitro_IDLE" loop="false" x="0" y="0"/>
+   <anim name="enough" anim="nitro_enough" loop="false" x="6" y="11"/>
+   <anim name="ew" anim="nitro_EW" loop="false" x="0" y="36"/>
+
+</character>

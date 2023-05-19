@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" isGF="true" flipX="false" holdTime="10.2"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+
+   <anim name="singLEFT" anim="nitro_left" loop="false" x="-20" y="0"/>
+   <anim name="singDOWN" anim="nitro_down" loop="false" x="0" y="-40"/>
+   <anim name="singUP" anim="nitro_up" loop="false" x="0" y="20"/>
+   <anim name="singRIGHT" anim="nitro_right" loop="false" x="0" y="0"/>
+   <anim name="idle" anim="PRINGLE dancing beat" fps="12" loop="true" x="0" y="0"/>
+
+</character>

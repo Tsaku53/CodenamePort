@@ -1,0 +1,8 @@
+{
+    "displayName": "Jailbreak",
+    "bpm": 100.0,
+    "icon": "torrent",
+    "color": "#778899",
+    "coopAllowed": true,
+    "opponentModeAllowed": true
+}

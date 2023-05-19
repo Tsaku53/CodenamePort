@@ -15,14 +15,3 @@ function beatHit() {
     }
     
 }
-var tweening;
-
-function beatHit(curBeat)
-{
-      tweening = !tweening;
-
-       if (tweening){
-      FlxTween.cancelTweensOf(bg);
-      FlxTween.color(monitorBack1, bg.color, FlxG.random.color(), 5);
-}
-}
