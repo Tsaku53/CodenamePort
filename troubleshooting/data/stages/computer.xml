@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.75" name="computer" folder="stages/computer/">
+
+<sprite name="monitorBack1"       scale="1.4"        x="-320" y="-50"   sprite="monitorBack1"       scroll="0.5" />
+
+<sprite name="binary" scale="2"        x="-300" y="120"    sprite="binary"       scroll="0.8">
+    <anim name="binaryglow0" anim="binaryglow0" loop="true"/>
+</sprite>
+
+<sprite name="stageStone"       scale="1"        x="-720" y="-150"   sprite="stageStone"       scroll="1" />
+
+
+<girlfriend x="320" y="160" scroll="1"/>
+<boyfriend x="850" y="130"/>
+
+<dad x="-50" y="120" />
+
+</stage>

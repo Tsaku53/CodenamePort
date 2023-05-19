@@ -1,0 +1,8 @@
+{
+    "displayName": "torrent",
+    "bpm": 100.0,
+    "icon": "chara",
+    "color": "#778899",
+    "coopAllowed": true,
+    "opponentModeAllowed": true
+}
