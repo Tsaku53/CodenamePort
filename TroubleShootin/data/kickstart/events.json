@@ -1,0 +1,71 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteskinchangeOPPT",
+						"NOTE_assetsNitro",
+						""
+					],
+					[
+						"noteskinchangeBF",
+						"NOTE_assetsNitro",
+						""
+					]
+				]
+			],
+			[
+				82382.8125,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Change Character",
+						"gf",
+						"torrent intro"
+					]
+				]
+			],
+			[
+				82617.1875,
+				[
+					[
+						"Play Animation",
+						"death",
+						"gf"
+					]
+				]
+			],
+			[
+				84257.8125,
+				[
+					[
+						"Change Character",
+						"gf",
+						"torrent gf"
+					]
+				]
+			],
+			[
+				106875,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

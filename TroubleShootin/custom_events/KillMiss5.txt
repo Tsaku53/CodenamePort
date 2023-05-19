@@ -1,0 +1,1 @@
+This script kills the player after 5 misses.
