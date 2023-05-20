@@ -1,0 +1,8 @@
+{
+    "displayName": "night-rider",
+    "bpm": 100.0,
+    "icon": "nitro",
+    "color": "#778899",
+    "coopAllowed": true,
+    "opponentModeAllowed": true
+}

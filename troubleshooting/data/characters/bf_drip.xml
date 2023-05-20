@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character isPlayer="true" flipX="true" holdTime="9.99999999999998" y="350"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+<character isPlayer="true" flipX="true" holdTime="9.99999999999998" y="350" color="#31B0D1"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
 
    <anim name="singLEFT" anim="BF NOTE LEFT0" loop="false" x="4" y="-6"/>
    <anim name="singDOWN" anim="BF NOTE DOWN0" loop="false" x="-14" y="-50"/>

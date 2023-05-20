@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character isPlayer="false" flipX="false" holdTime="10.2" icon= "nitro"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
+<character isPlayer="false" flipX="false" holdTime="10.2" icon= "nitro" color="#5844ec"> <!-- CONVERTED VIA psychjsontocodenamexml.py by Burgerballs -->
 
    <anim name="singLEFT" anim="nitro_left" loop="false" x="-30" y="0"/>
    <anim name="singDOWN" anim="nitro_down" loop="false" x="-20" y="-70"/>
